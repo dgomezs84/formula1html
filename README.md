@@ -14,6 +14,7 @@ This README would normally document whatever steps are necessary to get your app
 ### Contribution guidelines ###
 
 * Fontello
+* Pexels
 
 ### Who do I talk to? ###
 
